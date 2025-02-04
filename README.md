@@ -13,6 +13,7 @@ Monday:
 - 10AM - 12PM , Fund of computing logic
 - 1PM - 3PM , Introduction to data management
 - 4PM - 6PM, It essentials
+  
 Tuesday:
 - 12PM - 3PM, Commm 1000
 - 6PM - 8PM ,Introduction to Web development
